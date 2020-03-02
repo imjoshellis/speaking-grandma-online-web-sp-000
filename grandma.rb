@@ -4,7 +4,7 @@ def speak_to_grandma(phrase)
     if phrase == "I LOVE YOU GRANDMA!"
       puts "I LOVE YOU TOO PUMPKIN"
       return
-    else 
+    else
       puts " NO, NOT SINCE 1938!"
       return
     end
@@ -14,10 +14,10 @@ def speak_to_grandma(phrase)
   end
 end
 # Whatever you say to grandma, she should respond with
-# 
+#
 # unless you shout it (type in all capitals).
 
-# If you shout, she can hear you (or at least she thinks so) 
+# If you shout, she can hear you (or at least she thinks so)
 # and yells back
 
 # NO, NOT SINCE 1938!
